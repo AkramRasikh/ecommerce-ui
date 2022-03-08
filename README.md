@@ -23,6 +23,7 @@ Now that all the data was being passed down, I went back to my tests and extende
 
 - Select input should not be stateful and the state control should exist OUTSIDE of components (accept props)
 - standardise colours, padding, margin in to a centralised system. Currently I am setting colours and fonts all over the place.
+- download & use correct fonts in their positions
 - refactor the `product` component in to smaller files
 - refactor button component (especially how I use border)
 - ... been more pixel perfect!
